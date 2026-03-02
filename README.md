@@ -14,18 +14,6 @@ A multi-page interactive Power BI report for analysing sales transactions, costs
 
 🔍 Key Observations & Business Recommendations
 
-📄 Report Pages
-
-📏 Measures & Fields Reference
-
-🚀 Deployment Process
-
-🤝 Contributing Guidelines
-
-💡 Example Usage
-
-📜 License & Support
-
 
 ## 📌 Project Overview
 
