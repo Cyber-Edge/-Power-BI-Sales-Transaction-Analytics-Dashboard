@@ -6,8 +6,6 @@ A multi-page interactive Power BI report for analysing sales transactions, costs
 
 📌 Project Overview
 
-🗂️ Project Structure
-
 ⚙️ Tools
 
 🗄️ Data Sources & Data Model
